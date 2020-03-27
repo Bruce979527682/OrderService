@@ -1,0 +1,15 @@
+C:\Users\vzan\source\repos\OrderService\OrderService\bin\Debug\OrderService.exe.config
+C:\Users\vzan\source\repos\OrderService\OrderService\bin\Debug\OrderService.exe
+C:\Users\vzan\source\repos\OrderService\OrderService\bin\Debug\OrderService.pdb
+C:\Users\vzan\source\repos\OrderService\OrderService\obj\Debug\OrderService.exe
+C:\Users\vzan\source\repos\OrderService\OrderService\obj\Debug\OrderService.pdb
+C:\Users\vzan\source\repos\OrderService\OrderService\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\vzan\source\repos\OrderService\OrderService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vzan\source\repos\OrderService\OrderService\bin\Debug\RabbitMQ.Client.dll
+C:\Users\vzan\source\repos\OrderService\OrderService\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\vzan\source\repos\OrderService\OrderService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vzan\source\repos\OrderService\OrderService\bin\Debug\RabbitMQ.Client.xml
+C:\Users\vzan\source\repos\OrderService\OrderService\obj\Debug\OrderService.ProjectInstaller.resources
+C:\Users\vzan\source\repos\OrderService\OrderService\obj\Debug\OrderService.csproj.GenerateResource.cache
+C:\Users\vzan\source\repos\OrderService\OrderService\obj\Debug\OrderService.csproj.CopyComplete
+C:\Users\vzan\source\repos\OrderService\OrderService\obj\Debug\OrderService.csprojAssemblyReference.cache
