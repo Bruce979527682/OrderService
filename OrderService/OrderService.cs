@@ -19,6 +19,8 @@ namespace OrderService
         {
             InitializeComponent();
             _factory = new ConnectionFactory() { HostName = "localhost", UserName = "city", Password = "12345678" };
+            _factory.AutomaticRecoveryEnabled = true;//启用自动恢复
+            _factory.NetworkRecoveryInterval = TimeSpan.FromSeconds(10);//重试间隔
         }
 
         #region 定时器配置
